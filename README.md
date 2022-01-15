@@ -9,7 +9,7 @@ This is a remix of yyh1002's Hinged Case for Earphones ([Thingiverse thing:25484
 
 ### Gallery
 
-![Photo 1](thumbs/case1.jpg)[🔎](images/case1.jpg) ![Comparison](thumbs/case2.jpg)[🔎](images/case2.jpg) ![Photo 2](thumbs/case3.jpg)[🔎](images/case3.jpg) ![Photo 3](thumbs/case4.jpg)[🔎](images/case4.jpg)
+![Photo 1](thumbs/case1.jpg)[🔎](images/case1.jpg) ![Photo 2](thumbs/case2.jpg)[🔎](images/case2.jpg) ![Photo 3](thumbs/case3.jpg)[🔎](images/case3.jpg) ![Photo 4](thumbs/case4.jpg)[🔎](images/case4.jpg) ![Photo 5 - longer model](thumbs/case5.jpg)[🔎](images/case5.jpg)
 
 
 ## Description and Instructions
@@ -50,6 +50,9 @@ The lid closing mechanism should work fine on a well-made print but if it doesn'
 
 ## Updates
 
+### 2017/11/18
+First published on Thingiverse.
+
 ### 2018/08/02
 Added a small ‘lip’ to the lid so it is easier to open (suggested by [jemete](https://www.thingiverse.com/jemete)).
 
@@ -58,6 +61,9 @@ Added ‘L5’ variations on the models, which are 5 mm longer.
 
 ### 2019/06/02
 Added small ridges on the sides of the box to make it more obvious how to easily open it. Also rotated all models 90°.
+
+### 2020/05/13
+Migrated to GitHub.
 
 
 ## Tags
